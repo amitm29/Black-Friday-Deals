@@ -320,6 +320,10 @@ Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and
 
 Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world.
 
+### 💸 [Expenses Manager](https://apps.apple.com/us/app/monthly-expenses-tracker-app/id1590852070) - Lifetime 80% OFF, Nov 26 - Dec 2
+
+#1 Private Expense Tracker: Budget, Track Spending, and Save Smarter with Expenses Manager.
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
